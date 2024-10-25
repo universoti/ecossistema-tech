@@ -20,6 +20,7 @@ A seguir, apresentamos uma extensa lista de pessoas que contribuem para manter n
 | Comunidade Imasters | https://imasters.com.br/dotnet | `Programação em geral`
 | Luis Dev | https://luisdev.com.br | `Arquitetura` `.NET` `C#` `Microserviço` `Mensageria`
 | Marcio Nizzola | https://marcionizzola.medium.com |`.NET` `C#` `Padrões Arquitetural`
+| Erick Fernando | https://universoti|`.NET` `C#` `Desenvolvimento para iniciantes e Maui`
 
 **Cursos BR**
 | Nome | Plataforma | 
@@ -31,6 +32,7 @@ A seguir, apresentamos uma extensa lista de pessoas que contribuem para manter n
 | Alura | https://alura.com.br
 | Desenvolvedor io | https://desenvolvedor.io/
 | Rocketseat | https://rocketseat.com.br
+|C-Sharp+Orientação a Objetos +Maui| https://www.udemy.com/course/introducao-a-orientacao-a-objetos-com-c-sharp-c/?referralCode=F226DAA87F59DA87548D/
 
 
 
